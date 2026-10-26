@@ -1,0 +1,16 @@
+Options -Indexes
+DirectoryIndex index.html
+<IfModule mod_headers.c>
+  Header set X-Content-Type-Options "nosniff"
+  Header set Referrer-Policy "strict-origin-when-cross-origin"
+  Header set Permissions-Policy "camera=(), microphone=(), geolocation=()"
+  <FilesMatch "\.(?:woff|svg|css|js)$">
+    Header set Cache-Control "public, max-age=86400"
+  </FilesMatch>
+</IfModule>
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE text/html text/plain text/css application/javascript application/json image/svg+xml
+</IfModule>
+<FilesMatch "^(?:README\.md|build-pages\.cjs|package\.json|VALIDACION\.md)$">
+  Require all denied
+</FilesMatch>

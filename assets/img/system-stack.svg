@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 500" role="img" aria-labelledby="title"><title id="title">Módulos de software en capas conectadas</title><defs>
+<linearGradient id="orange" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffc99f"/><stop offset=".32" stop-color="#ff873b"/><stop offset=".7" stop-color="#ee5919"/><stop offset="1" stop-color="#a5350e"/></linearGradient>
+<linearGradient id="silver" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#faf9f7"/><stop offset=".25" stop-color="#bbbbb0"/><stop offset=".46" stop-color="#eae9e7"/><stop offset=".7" stop-color="#6a6967"/><stop offset="1" stop-color="#cbcac8"/></linearGradient>
+<linearGradient id="side"><stop stop-color="#3c3b39"/><stop offset=".45" stop-color="#a8a7a5"/><stop offset="1" stop-color="#51504e"/></linearGradient>
+<linearGradient id="black" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#343331"/><stop offset="1" stop-color="#131210"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#ff722b" stop-opacity=".2"/><stop offset="1" stop-color="#ff722b" stop-opacity="0"/></radialGradient>
+<filter id="shadow" x="-35%" y="-35%" width="180%" height="190%"><feDropShadow dx="0" dy="13" stdDeviation="11" flood-color="#000" flood-opacity=".28"/></filter>
+</defs><ellipse cx="310" cy="260" rx="235" ry="210" fill="url(#glow)"/><ellipse cx="310" cy="426" rx="205" ry="19" fill="#000" opacity=".2"/>
+<g filter="url(#shadow)">
+<path d="m98 322 214-119 226 122v35L313 482 98 359Z" fill="url(#side)"/><path d="m98 322 214-119 226 122-225 122Z" fill="url(#silver)" stroke="#f4f4e9" stroke-width="2"/>
+<path d="m111 237 201-113 212 115v31L313 385 111 268Z" fill="#3f3e3c"/><path d="m111 237 201-113 212 115-211 114Z" fill="url(#black)" stroke="#757472" stroke-width="2"/>
+<path d="m131 150 182-103 191 105v30L313 286 131 180Z" fill="#bc4918"/><path d="m131 150 182-103 191 105-191 104Z" fill="url(#orange)" stroke="#ffc798" stroke-width="2"/>
+<path d="m210 149 102-57 109 60-109 60Z" fill="#903c12" opacity=".65"/><path d="m235 150 77-43 82 45-82 45Z" fill="none" stroke="#ffd9af" stroke-width="2"/>
+<path d="M171 256v-60m281 61v-61M174 351v-54m277 54v-54" stroke="#ffb27c" stroke-dasharray="4 6" stroke-width="3"/>
+<path d="m208 360 43-23 46 25-45 25Zm108 1 44-23 47 25-45 25Z" fill="#444341"/>
+</g><circle cx="313" cy="30" r="14" fill="#ff722b"/><path d="M313 46v34" stroke="#ff9b60" stroke-width="2"/></svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 500" role="img" aria-labelledby="title"><title id="title">Tres etapas conectadas para automatizar un proceso</title><defs>
+<linearGradient id="orange" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffc99f"/><stop offset=".32" stop-color="#ff873b"/><stop offset=".7" stop-color="#ee5919"/><stop offset="1" stop-color="#a5350e"/></linearGradient>
+<linearGradient id="silver" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#faf9f7"/><stop offset=".25" stop-color="#bbbbb0"/><stop offset=".46" stop-color="#eae9e7"/><stop offset=".7" stop-color="#6a6967"/><stop offset="1" stop-color="#cbcac8"/></linearGradient>
+<linearGradient id="side"><stop stop-color="#3c3b39"/><stop offset=".45" stop-color="#a8a7a5"/><stop offset="1" stop-color="#51504e"/></linearGradient>
+<linearGradient id="black" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#343331"/><stop offset="1" stop-color="#131210"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#ff722b" stop-opacity=".2"/><stop offset="1" stop-color="#ff722b" stop-opacity="0"/></radialGradient>
+<filter id="shadow" x="-35%" y="-35%" width="180%" height="190%"><feDropShadow dx="0" dy="13" stdDeviation="11" flood-color="#000" flood-opacity=".28"/></filter>
+</defs><ellipse cx="310" cy="260" rx="235" ry="210" fill="url(#glow)"/><ellipse cx="310" cy="426" rx="205" ry="19" fill="#000" opacity=".2"/>
+<path d="M161 278h110q25 0 25-25v-42q0-25 25-25h127M299 279v66q0 20 25 20h95" fill="none" stroke="#91908e" stroke-width="3" stroke-dasharray="7 7"/>
+<g transform="translate(74 212) rotate(-8)" filter="url(#shadow)"><rect x="10" y="13" width="123" height="118" rx="22" fill="#74320f"/><rect width="123" height="118" rx="22" fill="url(#orange)" stroke="#ffcba1"/><path d="M29 32h64M29 53h64M29 75h43" stroke="#773312" stroke-width="7" stroke-linecap="round"/></g>
+<g transform="translate(250 108) rotate(7)" filter="url(#shadow)"><rect x="12" y="15" width="135" height="132" rx="25" fill="url(#side)"/><rect width="135" height="132" rx="25" fill="url(#silver)" stroke="#f4f3f1"/><path d="m68 28 10 22 23 2-17 17 5 24-21-11-22 11 5-24-17-17 23-2Z" fill="#41403e"/><circle cx="68" cy="64" r="10" fill="#b2b1af"/></g>
+<g transform="translate(440 145) rotate(13)" filter="url(#shadow)"><rect width="112" height="111" rx="23" fill="url(#orange)" stroke="#ffbf91"/><path d="m28 57 17 17 39-42" fill="none" stroke="#713310" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g transform="translate(421 320) rotate(-7)" filter="url(#shadow)"><rect width="103" height="81" rx="16" fill="url(#silver)"/><path d="M22 27h59M22 43h45M22 59h59" stroke="#5f5e5c" stroke-width="5" stroke-linecap="round"/></g></svg>

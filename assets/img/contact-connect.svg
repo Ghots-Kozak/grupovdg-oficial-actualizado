@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 500" role="img" aria-labelledby="title"><title id="title">Correo, mensajes y llamada conectados</title><defs>
+<linearGradient id="orange" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffc99f"/><stop offset=".32" stop-color="#ff873b"/><stop offset=".7" stop-color="#ee5919"/><stop offset="1" stop-color="#a5350e"/></linearGradient>
+<linearGradient id="silver" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#faf9f7"/><stop offset=".25" stop-color="#bbbbb0"/><stop offset=".46" stop-color="#eae9e7"/><stop offset=".7" stop-color="#6a6967"/><stop offset="1" stop-color="#cbcac8"/></linearGradient>
+<linearGradient id="side"><stop stop-color="#3c3b39"/><stop offset=".45" stop-color="#a8a7a5"/><stop offset="1" stop-color="#51504e"/></linearGradient>
+<linearGradient id="black" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#343331"/><stop offset="1" stop-color="#131210"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#ff722b" stop-opacity=".2"/><stop offset="1" stop-color="#ff722b" stop-opacity="0"/></radialGradient>
+<filter id="shadow" x="-35%" y="-35%" width="180%" height="190%"><feDropShadow dx="0" dy="13" stdDeviation="11" flood-color="#000" flood-opacity=".28"/></filter>
+</defs><ellipse cx="310" cy="260" rx="235" ry="210" fill="url(#glow)"/><ellipse cx="310" cy="426" rx="205" ry="19" fill="#000" opacity=".2"/>
+<g transform="translate(112 119) rotate(-10 180 130)" filter="url(#shadow)">
+<rect x="17" y="18" width="354" height="233" rx="26" fill="url(#side)"/><rect width="354" height="233" rx="26" fill="url(#silver)" stroke="#f4f3f1" stroke-width="2"/>
+<rect x="14" y="14" width="326" height="205" rx="17" fill="#cac9c7"/>
+<path d="m19 27 147 114a19 19 0 0 0 23 0L336 27" fill="none" stroke="#6b6a68" stroke-width="5"/><path d="m19 211 111-89m206 89-111-89" stroke="#979694" stroke-width="3"/>
+</g>
+<g transform="translate(364 252) rotate(10)" filter="url(#shadow)"><path d="M0 18Q0 0 18 0h130q18 0 18 18v73q0 18-18 18H62l-31 24v-24H18Q0 109 0 91Z" fill="url(#orange)" stroke="#ffbb8b" stroke-width="2"/><path d="M31 34h101M31 54h80M31 74h48" stroke="#7b310f" stroke-width="7" stroke-linecap="round"/></g>
+<g transform="translate(385 66) rotate(11)" filter="url(#shadow)"><rect width="88" height="88" rx="25" fill="url(#orange)"/><path d="M27 20h12l4 16-7 5q5 13 15 15l6-7 14 5v12q-1 9-11 8Q27 66 20 33q-2-12 7-13Z" fill="#58280e"/></g>
+<circle cx="79" cy="121" r="7" fill="#ff722b"/><circle cx="540" cy="220" r="5" fill="#c7c6c4"/></svg>
