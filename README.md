@@ -1,2 +1,3 @@
-# grupovdg-oficial-actualizado
-este es el proyecto actaulizado de la pagina de grupo vdg 25 oct 2026
+PAGINA DE GRUPO VDG 
+
+CON NUEVAS FUNCIONES DE COTIZACION Y ENVIO DE COTIZACION POR MENSAJE Y CORREO
